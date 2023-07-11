@@ -223,7 +223,7 @@ var __vue_render__ = function() {
               ]),
               _c("div", { staticClass: "bottom-area" }, [
                 _c("div", { staticClass: "price" }, [
-                  _vm._v("R$" + _vm._s(item.price))
+                  _vm._v("R$ " + _vm._s(item.price))
                 ]),
                 _c(
                   "div",
